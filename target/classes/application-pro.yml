@@ -1,7 +1,0 @@
-server:
-  port: 8080
-  context-path: /power
-girl:
-  cupSize: F
-  age: 25
-
